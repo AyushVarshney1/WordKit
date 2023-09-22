@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WordKit/static/css/main.6bb8bad8.css",
+    "main.js": "/WordKit/static/js/main.a2f7df80.js",
+    "static/js/787.28cb0dcd.chunk.js": "/WordKit/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/WordKit/index.html",
+    "main.6bb8bad8.css.map": "/WordKit/static/css/main.6bb8bad8.css.map",
+    "main.a2f7df80.js.map": "/WordKit/static/js/main.a2f7df80.js.map",
+    "787.28cb0dcd.chunk.js.map": "/WordKit/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bb8bad8.css",
+    "static/js/main.a2f7df80.js"
+  ]
+}
