@@ -16,12 +16,12 @@ export default function Navbar(props) {
               <a className="nav-link active" aria-current="page" href="/">Home</a>
             </li>
           </ul> */}
-          <img src={'/assests/Images/lightmode.png'} id="icon" alt='Hello' height={'30px'} />
+          <img src={'./assests/Images/lightmode.png'} id="icon" alt='Hello' height={'30px'} />
           <div className="form-check form-switch" style={{float:'right',marginLeft:'10px'}}>
             <input className="form-check-input" onClick={props.toggleMode} type="checkbox" role="switch" id="flexSwitchCheckDefault" />
               <label className="form-check-label" htmlFor="flexSwitchCheckDefault"></label>
           </div>
-          <img src={'/assests/Images/darkmode3.png'} id="icon" alt='Hello' height={'25px'} />
+          <img src={'./assests/Images/darkmode3.png'} id="icon" alt='Hello' height={'25px'} />
         </div>
       </div>
     </nav>
